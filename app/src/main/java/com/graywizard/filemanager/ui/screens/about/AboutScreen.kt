@@ -181,7 +181,7 @@ fun AboutScreen() {
         
         // Copyright
         Text(
-            text = "© 2024 GrayWizard. All rights reserved.",
+            text = "© 2026 GrayWizard. All rights reserved.",
             style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
             textAlign = TextAlign.Center
