@@ -1,6 +1,7 @@
 name: Android CI Build
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
